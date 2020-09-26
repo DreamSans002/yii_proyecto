@@ -1,1 +1,1 @@
-# -yii_proyecto
+# yii_proyecto
